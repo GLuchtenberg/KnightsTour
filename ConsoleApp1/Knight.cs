@@ -10,8 +10,8 @@ namespace ConsoleApp1
         public int nSteps;
         public int[] movementsX = { 2, 1, -1, -2, -2, -1, 1, 2 };
         public int[] movementsY = { 1, 2, 2, 1, -1, -2, -2, -1 };
-        public int[,] table;
         public int iterations = 0;
+        public int[,] table;
 
         public Knight(int tableSize)
         {
