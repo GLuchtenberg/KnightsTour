@@ -1,0 +1,39 @@
+﻿using System;
+using System.Diagnostics;
+
+namespace SemRecursividade
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string input;
+            int x, y, n = 8;
+            var stopwatch = new Stopwatch();
+            stopwatch.Start();
+            
+            Console.WriteLine("Posição X");
+            input = Console.ReadLine();
+            Int32.TryParse(input, out x);
+
+            Console.WriteLine("Posição Y");
+            input = Console.ReadLine();
+            Int32.TryParse(input, out y);
+            
+            Knight knight = new Knight(n);
+            Console.WriteLine("Calculando..");
+            knight.Run(x, y);
+            stopwatch.Stop();
+            TimeSpan ts = stopwatch.Elapsed;
+
+            // Format and display the TimeSpan value.
+            string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+                ts.Hours, ts.Minutes, ts.Seconds,
+                ts.Milliseconds / 10);
+            Console.WriteLine("RunTime " + elapsedTime);
+            Console.WriteLine("iterations: " + knight.iterations);
+            // wait for input to close console
+            Console.ReadLine();
+        }
+    }
+}

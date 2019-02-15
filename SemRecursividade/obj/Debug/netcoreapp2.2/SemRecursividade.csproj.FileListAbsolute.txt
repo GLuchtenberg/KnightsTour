@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\obj\Debug\netcoreapp2.2\SemRecursividade.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\obj\Debug\netcoreapp2.2\SemRecursividade.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\obj\Debug\netcoreapp2.2\SemRecursividade.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\obj\Debug\netcoreapp2.2\SemRecursividade.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\bin\Debug\netcoreapp2.2\SemRecursividade.deps.json
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\bin\Debug\netcoreapp2.2\SemRecursividade.runtimeconfig.json
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\bin\Debug\netcoreapp2.2\SemRecursividade.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\bin\Debug\netcoreapp2.2\SemRecursividade.dll
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\bin\Debug\netcoreapp2.2\SemRecursividade.pdb
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\obj\Debug\netcoreapp2.2\SemRecursividade.dll
+C:\Users\Gabriel\source\repos\ConsoleApp1\SemRecursividade\obj\Debug\netcoreapp2.2\SemRecursividade.pdb
